@@ -11,7 +11,7 @@ This Helm chart deploys an Nginx web server on Kubernetes.
 
 1. Clone the repository:
 
-git clone https://github.com/your/repo.git
+git clone https://github.com/seshadricloud/NGINX-CHART.git
 cd repo/
 
 
